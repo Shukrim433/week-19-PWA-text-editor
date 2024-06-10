@@ -12,7 +12,8 @@ module.exports = () => {
     mode: 'development',
     entry: {  // 2 entry points here
       main: './src/js/index.js',
-      install: './src/js/install.js'
+      install: './src/js/install.js',
+      editor: './src/js/editor.js',
     },
     output: {
       filename: '[name].bundle.js', // **[name] will be replaced by the name of the entry point (for the main entry point the output file will be main.bundle.js, for the install entry point - install.bundle.js).
