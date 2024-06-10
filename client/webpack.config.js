@@ -10,7 +10,7 @@ module.exports = () => {
   return {
 
     mode: 'development',
-    entry: {  // 2 entry points here
+    entry: {  // 3 entry points here
       main: './src/js/index.js',
       install: './src/js/install.js',
       editor: './src/js/editor.js',

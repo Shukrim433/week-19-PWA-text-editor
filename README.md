@@ -25,3 +25,5 @@
 
 
 ## Application
+- link to my deployed application:
+https://week-19-pwa-text-editor.onrender.com/
